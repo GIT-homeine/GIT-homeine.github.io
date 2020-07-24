@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gitseven.github.io</id>
+    <title>GITSEVEN</title>
+    <updated>2020-07-24T03:42:47.046Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gitseven.github.io"/>
+    <link rel="self" href="https://gitseven.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://gitseven.github.io/images/avatar.png</logo>
+    <icon>https://gitseven.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, GITSEVEN</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一个博客]]></title>
+        <id>https://gitseven.github.io/post/wo-de-di-yi-ge-bo-ke/</id>
+        <link href="https://gitseven.github.io/post/wo-de-di-yi-ge-bo-ke/">
+        </link>
+        <updated>2020-07-24T03:29:29.000Z</updated>
+        <content type="html"><![CDATA[<p>nice</p>
+]]></content>
+    </entry>
+</feed>
