@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://GIT-homeine.github.io</id>
+    <id>https://GIT-homeine.github.io</id>
     <title>十里悲秋</title>
-    <updated>2020-07-24T06:51:19.678Z</updated>
+    <updated>2020-07-24T06:54:15.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://GIT-homeine.github.io"/>
-    <link rel="self" href="http://GIT-homeine.github.io/atom.xml"/>
+    <link rel="alternate" href="https://GIT-homeine.github.io"/>
+    <link rel="self" href="https://GIT-homeine.github.io/atom.xml"/>
     <subtitle>温故而知新，新知后遇</subtitle>
-    <logo>http://GIT-homeine.github.io/images/avatar.png</logo>
-    <icon>http://GIT-homeine.github.io/favicon.ico</icon>
+    <logo>https://GIT-homeine.github.io/images/avatar.png</logo>
+    <icon>https://GIT-homeine.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 十里悲秋</rights>
 </feed>
