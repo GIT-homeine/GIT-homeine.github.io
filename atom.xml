@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gitseven.github.io</id>
+    <id>http://GIT-homeine.github.io</id>
     <title>GITSEVEN</title>
-    <updated>2020-07-24T06:23:18.930Z</updated>
+    <updated>2020-07-24T06:43:29.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://gitseven.github.io"/>
-    <link rel="self" href="http://gitseven.github.io/atom.xml"/>
+    <link rel="alternate" href="http://GIT-homeine.github.io"/>
+    <link rel="self" href="http://GIT-homeine.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://gitseven.github.io/images/avatar.png</logo>
-    <icon>http://gitseven.github.io/favicon.ico</icon>
+    <logo>http://GIT-homeine.github.io/images/avatar.png</logo>
+    <icon>http://GIT-homeine.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, GITSEVEN</rights>
 </feed>
